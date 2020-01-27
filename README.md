@@ -10,6 +10,6 @@ It is required that your code is in Python and you have done some R&D work in a 
 
 It is also required that your code can be executed in a Docker container (use Docker Compose if you require additional infrastructure).
 
-# docker-instance 
+# docker-jupyter-notebook-instance 
 
 138.197.144.144:8888
