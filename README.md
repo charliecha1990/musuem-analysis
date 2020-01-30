@@ -24,7 +24,7 @@ It is also required that your code can be executed in a Docker container (use Do
  
  4. go to 138.197.144.144:
  
- #note
+ # note
  SSE(和方差、误差平方和)：The sum of squares due to error
 MSE(均方差、方差)：Mean squared error
 RMSE(均方根、标准差)：Root mean squared error
