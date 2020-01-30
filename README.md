@@ -13,3 +13,16 @@ It is also required that your code can be executed in a Docker container (use Do
 # docker-jupyter-notebook-instance 
 
 138.197.144.144:8888
+
+# ssh root@138.197.144.144
+
+ 1. docker images   => get the image name
+ 
+ 2. docker run -it -p 8888:8888 jupyter/scipy-notebook
+ 
+ 3. copy session token 
+ 
+ 4. go to 138.197.144.144:8888
+
+
+
